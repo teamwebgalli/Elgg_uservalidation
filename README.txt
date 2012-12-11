@@ -1,4 +1,5 @@
-/**
+Author information
+
  *	Elgg User validation
  *	Author : Raez Mon | Team Webgalli
  *	Team Webgalli | Elgg developers and consultants
@@ -8,4 +9,7 @@
  *	Licence : GNU2
  *	Copyright : Team Webgalli 2011-2015
  *	Provides :  Validation of user account by either admin or by email
- */
+ 
+Instructions:
+
+ *	Drop into mod, enable in the admin panel and use.
